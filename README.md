@@ -16,7 +16,7 @@ Our mission is to bridge the gap between theoretical cybersecurity knowledge and
 
 | Lab | Subject | Difficulty | Status |
 |---|---|---|---|
-| 001 | Linux Privilege Escalation | Intermediate | Planned |
+| 001 | [Linux Privilege Escalation](./FC-LAB-001.md) | Intermediate | Published |
 | 002 | Network Reconnaissance | Beginner | Planned |
 | 003 | Digital Forensics: Hidden Data | Beginner | Planned |
 | 004 | OSINT Investigation | Intermediate | Planned |
